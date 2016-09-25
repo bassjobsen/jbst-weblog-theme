@@ -19,5 +19,5 @@ book](https://www.packtpub.com/web-development/bootstrap-4-site-blueprints-secon
 
 ### Credits
 - Forked from and thanks to [JBST 4](https://github.com/bassjobsen/jbst-4-sass)
-- HTML and SCSS inspired by [JBST 4](https://github.com/bassjobsen/bootstrap-weblog)
+- HTML and SCSS inspired by [Bootstrap 4 Weblog](https://github.com/bassjobsen/bootstrap-weblog)
 - [Bootstrap](http://getbootstrap.com/)

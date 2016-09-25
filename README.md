@@ -5,7 +5,7 @@ Wordpress theme build with Bootstrap 4 and JBST 4.
 
 ### Bootstrap 4 Site Blueprints
 JBST Weblog theme shows how to build a custom Wordpress theme with Bootstrap 4 and JBST 4. I explain the process and code in more detail in [my 
-book].
+book](https://www.packtpub.com/web-development/bootstrap-4-site-blueprints-second-edition).
 
 ![Bootstrap 4 Site Blueprints](book.png).
 
